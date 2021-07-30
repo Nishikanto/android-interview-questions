@@ -70,7 +70,7 @@
     - When you have some UI components to be used across various activities
     - When multiple view can be displayed side by side just like viewPager
 
-* **What is the difference between FragmentPagerAdapter vs FragmentStatePagerAdapter?** [Learn from here](https://guides.codepath.com/android/viewpager-with-fragmentpageradapter)
+* **What is the difference between FragmentPagerAdapter vs FragmentStatePagerAdapter?** - [Learn from here](https://guides.codepath.com/android/viewpager-with-fragmentpageradapter)
     - FragmentPagerAdapter: Each fragment visited by the user will be stored in the memory but the view will be destroyed. When the page is revisited, then the view will be created not the instance of the fragment.
     - FragmentStatePagerAdapter: Here, the fragment instance will be destroyed when it is not visible to the user, except the saved state of the fragment.
 
