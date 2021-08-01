@@ -1291,7 +1291,7 @@
     - How to find if a problem can be solved with Backtracking or not?
     - What is Exhaustive Searching?
 
-* **Graph** - [Learn from here](https://afteracademy.com/tech-interview/ds-algo-concepts/graph)
+* **Graph** - [Learn from here](https://afteracademy.com/tech-interview/ds-algo-concepts/graph) and [hear](https://www.youtube.com/watch?v=9325EcyUJa0)
     - What is Graph and how to represent a Graph?
     - Explain Depth First Search and Breadth First Search.
     - How to represent a Graph? 
